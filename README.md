@@ -1,1 +1,1 @@
-"# fp"
+Device fingerprinting for Windows hosts.
